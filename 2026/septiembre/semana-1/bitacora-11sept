@@ -9,3 +9,15 @@ Evidencia:Captura de pantalla_12-9-2026_133217_github.com.jpeg ;
 Impedimentos:sin impedimentos  ;
 
 Plan de Acción:Crear un repositorio público en GitHub con el mismo nombre de mi usuario para activar la función de perfil especial, redactar la información sobre mi formación en ADSO e intereses informáticos, maquetar el contenido utilizando sintaxis Markdown para darle una estructura limpia y atractiva, y finalmente hacer el commit del archivo README.md verificando su correcta visualización ;
+
+Id: 2 ; 
+Timestamp: 11/9/2026 15:30:00 ;
+Autoría: Juan Esteban Osorio Arevalo ; 
+
+Objetivo Técnico:cree un repositorio de prueba y lo clone en mi terminal como ejercicio pequeño practico para poner aprueba nuestra agilidad con la plataforma github y la terminal ; 
+
+Evidencia:Captura de pantalla_12-9-2026_134650_github.com.jpeg ; 
+
+Impedimentos:sin impedimentos  ;
+
+Plan de Acción:Creé y cloné un repositorio de prueba vía terminal para validar la fluidez en comandos básicos sin interfaces gráficas. Continuaré el ejercicio creando una rama local, subiendo cambios (commit y push) y abriendo un pull request. ;
