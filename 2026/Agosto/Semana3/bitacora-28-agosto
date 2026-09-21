@@ -26,3 +26,18 @@ Evidencia: \OneDrive\2913181\juanestebanosorio\evidencia kahoot.docx
 Impedimentos: Complicaciones en la construcción de estructura que eran ciertas preguntas en todos 3 kahoot, confundiendo funciones básicas.
 
 Plan de Acción: Repasaré la sintaxis de los comandos para corregir las dudas de los Kahoots, crearé el repositorio multiverso_git, forzaré un conflicto en historia.txt entre main y final-alternativo, lo resolveré manualmente y limpiaré el historial eliminando la rama con git branch -d.
+
+
+Id: 3
+
+Timestamp: 28/08/2026 18:00
+
+Autoría: Juan Esteban Osorio Arevalo
+
+Objetivo Técnico: Consolidar la estructura de ramas del repositorio mediante fusiones jerárquicas en cascada utilizando el comando git merge --no-ff, garantizando la preservación del árbol de commits, la trazabilidad de los mensajes de confirmación y el orden del flujo de trabajo asignado.
+
+Evidencia: \OneDrive\2913181\juanestebanosorio\actividad de transferencia juan osorio.docx
+
+Impedimentos: Comandos fallidos: Error por caracteres invisibles al copiar texto; se solucionó escribiéndolos a mano. Git no configurado: Mensaje 'Committer identity unknown'; se resolvió registrando el nombre y correo. Ruta errónea: Error por no estar en la carpeta raíz del proyecto.
+
+Plan de Acción: Exploraré el repositorio para ubicar a Codli y la jerarquía de ramas, configuraré mi identidad en Git (user.name y user.email), ejecutaré las tres fusiones en cascada usando git merge --no-ff -m para formar la frase secreta, eliminaré las ramas secundarias con git branch -d y registraré el proceso.
