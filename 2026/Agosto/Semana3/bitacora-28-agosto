@@ -1,0 +1,15 @@
+Id: 1
+
+Timestamp: 28/08/2026 13:10
+
+Autoría: Juan Esteban Osorio Arevalo
+
+Objetivo Técnico: Comprender y aplicar el flujo de trabajo con ramas (branching y merging) en Git, aprendiendo a aislar el desarrollo de nuevas funciones en dimensiones paralelas, simular y resolver un conflicto de fusión manual (merge conflict) para asegurar la integridad de la rama principal (main).
+
+Evidencia: actividad de apropiacion juan osorio.docx
+
+Impedimentos: Los principales impedimentos fueron cometidos por errores de sintaxis (git log --graph --oneline), omitir comillas en textos con espacios, confundir los nombres de archivo y de rama, saltarme el git add antes de hacer commit, y el bloqueo del sistema por falta de sincronía remota.
+
+Plan de Acción: El plan de acción consistió en leer los errores de la terminal, corregir la sintaxis con espacios y comillas, validar los nombres correctos de archivos y ramas, asegurar el paso previo por git add, editar el archivo manualmente para limpiar las marcas de conflicto y verificar el historial.
+
+
