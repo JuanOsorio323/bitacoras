@@ -26,3 +26,14 @@ Evidencia: lluvia de ideas endgame.png
 Impedimentos: Sin impedimentos
 
 Plan de Acción: Relacionar los conceptos clave de Git local (ramas, viajes en el tiempo, fusiones) con las escenas icónicas de la película Endgame
+
+
+Id: 3Timestamp: 24/08/2026 16:00Autoría: Juan Esteban Osorio Arevalo
+
+Objetivo Técnico: Aplicar el flujo fundamental de control de versiones local en Git (configuración de identidad, inicialización, preparación de archivos, confirmación de cambios y verificación de historial) mediante la ejecución guiada de comandos en la interfaz de línea de comandos (CLI), para garantizar la administración del historial de un proyecto informático.
+
+Evidencia: mi primer archivo en git.png
+
+Impedimentos: Sin impedimentos
+
+Plan de Acción: Tras la explicación teórica, se configuró la identidad en la terminal, se inicializó el repositorio entrenamiento-git y se aplicaron con éxito git add, git commit y git log sobre el archivo mision.txt sin inconvenientes.
