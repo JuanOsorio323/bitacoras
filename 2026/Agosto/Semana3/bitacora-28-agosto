@@ -13,3 +13,16 @@ Impedimentos: Los principales impedimentos fueron cometidos por errores de sinta
 Plan de Acción: El plan de acción consistió en leer los errores de la terminal, corregir la sintaxis con espacios y comillas, validar los nombres correctos de archivos y ramas, asegurar el paso previo por git add, editar el archivo manualmente para limpiar las marcas de conflicto y verificar el historial.
 
 
+Id: 2
+
+Timestamp: 28/08/2026 15:30
+
+Autoría: Juan Esteban Osorio Arevalo
+
+Objetivo Técnico: Demostrar la apropiación de conceptos sobre gestión de ramas, resolución de conflictos de fusión y comandos en Git mediante la participación activa y el desempeño práctico en 3 actividades evaluativas de Kahoot (pelea de banderas en equipos) para consolidar las bases del flujo colaborativo.
+
+Evidencia: \OneDrive\2913181\juanestebanosorio\evidencia kahoot.docx
+
+Impedimentos: Complicaciones en la construcción de estructura que eran ciertas preguntas en todos 3 kahoot, confundiendo funciones básicas.
+
+Plan de Acción: Repasaré la sintaxis de los comandos para corregir las dudas de los Kahoots, crearé el repositorio multiverso_git, forzaré un conflicto en historia.txt entre main y final-alternativo, lo resolveré manualmente y limpiaré el historial eliminando la rama con git branch -d.
