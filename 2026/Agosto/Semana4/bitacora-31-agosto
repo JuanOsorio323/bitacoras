@@ -24,3 +24,16 @@ Evidencia: (Celda vacía en la imagen)
 Impedimentos: Sin impedimentos
 
 Plan de Acción: Iniciar el desarrollo de las tareas asignadas ejecutando los comandos de Git directamente en la terminal.
+
+
+Id: 3
+
+Timestamp: 31/08/2026 18:00
+
+Autoría: Juan Esteban Osorio Arevalo
+
+Objetivo Técnico: Aplicar de forma autónoma el flujo de trabajo de Git Flow y las convenciones de Conventional Commits desde la terminal, mediante la creación de ramas feature, la gestión e indexación de cambios, y la fusión (merge) y limpieza de ramas.Evidencia: apropiacion.pdf
+
+Impedimentos: Confusión en la ejecución de comandos: Presenté equivocaciones al ingresar ciertos comandos de Git en la terminal, lo que me llevó a la creación involuntaria de ramas innecesarias.
+
+Plan de Acción: Ejecutar de manera recurrente git status y git branch antes de crear nuevas ramas o realizar fusiones, asegurando la ubicación correcta en la terminal.
